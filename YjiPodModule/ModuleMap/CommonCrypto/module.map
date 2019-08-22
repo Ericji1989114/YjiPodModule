@@ -1,0 +1,4 @@
+module RPayCommonCrypto {
+    header "/usr/include/CommonCrypto/CommonCrypto.h"
+    export *
+}

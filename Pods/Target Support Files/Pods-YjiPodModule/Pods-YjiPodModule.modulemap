@@ -1,0 +1,6 @@
+framework module Pods_YjiPodModule {
+  umbrella header "Pods-YjiPodModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
