@@ -10,4 +10,7 @@
 ✅ 4, Add Resource file and update.
 (Storyboard, Localizable.strings, Objc files)
 
-⌛️ 5, Load Resource files in Bundle
+✅ 5, Load Resource files in Bundle
+
+
+
