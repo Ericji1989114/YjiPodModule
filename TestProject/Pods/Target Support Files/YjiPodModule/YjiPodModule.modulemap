@@ -1,0 +1,6 @@
+framework module YjiPodModule {
+  umbrella header "YjiPodModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
